@@ -1,1 +1,5 @@
 # Information-Extraction-with-Knowledge-Graph
+
+text = "Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.The best way to prevent and slow down transmission, is be well informed about the disease and how it's spreading. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face.The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that you also practice respiratory etiquette. There are no specific vaccines or treatments. However, there are many ongoing clinical trials evaluating potential treatments. WHO will continue to provide updated information."
+
+#This text is taken from https://www.who.int/health-topics/coronavirus#tab=tab_1
